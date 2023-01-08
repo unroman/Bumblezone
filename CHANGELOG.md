@@ -1,3 +1,12 @@
+### **(V.6.6.1 Changes) (1.19.3 Minecraft)**
+
+##### Blocks:
+Fixed Honeycomb Brood Blocks able to spawn bees in fluids.
+
+##### Misc:
+Fixed random potential server crash.
+
+
 ### **(V.6.6.0 Changes) (1.19.3 Minecraft)**
 
 ##### Structures:
